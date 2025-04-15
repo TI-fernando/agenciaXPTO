@@ -1,6 +1,6 @@
 # Agência XPTO
 
-Um site institucional fictício de uma agência digital, desenvolvido como exercício de front-end. A página exibe projetos em destaque em um painel interativo, apresenta informações sobre a empresa e inclui um rodapé com links para redes sociais.
+Um site institucional fictício de uma agência digital, desenvolvido como exercício de front-end. A página exibe projetos em destaque em um painel interativo.
 
 ## 📸 Demonstração
 
@@ -10,9 +10,7 @@ Um site institucional fictício de uma agência digital, desenvolvido como exerc
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript Puro (Vanilla JS)**  
-- **Font Awesome** (ícones)  
-- **Google Fonts** (Public Sans)
+- **JavaScript Puro**  
 
 ## 📁 Estrutura de Arquivos
 
@@ -59,6 +57,5 @@ O painel de projetos permite navegar entre imagens utilizando botões de seta. A
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Seu Nome Aqui].  
-Este projeto é parte de estudos de HTML, CSS e JavaScript.
-
+Desenvolvido por **Fernando Henrique Silva**.  
+Este projeto é parte de estudos de **HTML, CSS e JavaScript**.
