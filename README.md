@@ -2,10 +2,6 @@
 
 Um site institucional fictício de uma agência digital, desenvolvido como exercício de front-end. A página exibe projetos em destaque em um painel interativo.
 
-## 📸 Demonstração
-
-> A página inicial apresenta um painel com imagens rotativas dos projetos, uma seção “Quem Somos” com texto e imagem ilustrativa, e um rodapé com ícones sociais estilizados.
-
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**  
